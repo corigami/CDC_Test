@@ -1,0 +1,270 @@
+1. (401) Central processing of data and execution of test programs are 
+provided by the flight avionics
+consolidated test station (FACTS)
+
+a. stimulus subsystem.
+b. measurement subsystem.
+c. computer/control subsystem.
+d. power distribution subsystem.
+
+2. (401) To transfer test programs and data results between the computer 
+and the disk/tape drive, the
+flight avionics consolidated test station (FACTS) uses the
+
+a. parallel I/F bus.
+b. IEEE-488 data bus.
+c. high-speed data bus.
+d. RS-232 serial interface bus.
+
+3. (401) What section of the flight avionics consolidated test station 
+(FACTS) computer allows data
+to be transferred between the computer and an external device?
+
+a. Hard drive.
+b. Memory section.
+c. Input/output section.
+d. Central processing unit.
+
+4. (402) The component that provides the flight avionics consolidated test 
+station (FACTS) with five channels of high-power programmable DC loads for testing unit under 
+test (UUT) power supplies and generators is the
+
+a. DC programmable power supply.
+b. Programmable load cart assembly.
+c. line replaceable unit (LRU) AC programmable power supply.
+d. Internal programmable loads assembly.
+
+5. (403) What flight avionics consolidated test station (FACTS) component 
+provides operating power
+to the enhanced interface connector assembly (EICA)?
+
+a. Digital test module (DTM) power supply.
+b. AC programmable power supply.
+c. DC programmable power supply.
+d. Internal programmable loads assembly.
+
+6. (404) An interface for flight avionics consolidated test station (FACTS) 
+power subsystem fault
+status is provided by the
+
+a. 1553 feed-through bus.
+b. IEEE-488 data bus.
+c. RS-232 serial interface bus.
+d. parallel interface feed-through bus.
+
+7. (404) What component of the flight avionics consolidated test station 
+(FACTS) power distribution
+subsystem isolates facility power from the external source?
+
+a. Control panel assembly.
+b. Power entry filter assembly.
+c. Power entry drawer assembly.
+d. Control ON/OFF drawer assembly.
+
+8. (404) Which assembly is the primary operator interface for monitoring 
+flight avionics consolidated
+test station (FACTS) fault conditions?
+
+a. Control panel.
+b. Power entry filter.
+c. Power entry drawer.
+d. Control ON/OFF drawer.
+
+9. (404) Which flight avionics consolidated test station (FACTS) power 
+distribution subsystem
+assembly distributes power to the blower motors?
+
+a. Control panel.
+b. Power entry filter.
+c. Power entry drawer.
+d. Control ON/OFF drawer.
+
+10. (405) The flight avionics consolidated test station (FACTS) function 
+generator assembly does not
+provide a
+
+a. sine waveform.
+b. linear waveform.
+c. square waveform.
+d. triangle waveform.
+
+11. (405) The flight avionics consolidated test station (FACTS) stimulus 
+subsystem component that
+converts digital program words into representative DC voltages is 
+the
+
+a. precision power supply. -
+b. function generator assembly.
+c. AC/DC analog stimulus assembly.
+d. arbitrary/pulse waveform generator assembly.
+
+12. (406) The clock distribution amplifier circuit that interfaces the AC 
+input to the flight avionics
+consolidated test station (FACTS) power supply board is the
+
+a. motherboard.
+b. power module.
+c. input amplifier.
+d. circuit check board.
+
+13. (407) What test must be performed as a prerequisite before 
+performing other flight avionics
+consolidated test station (FACTS) maintenance software (MSW) 
+tests?
+
+a. COMP.
+b. CONE
+c. STTO.
+d. BIT.
+
+14. (407) On the flight avionics consolidated test station (FACTS), what 
+test isolates faults caused by
+out-of-tolerance conditions?
+
+a. CAL.
+b. COMP.
+c. CONE
+d. OA/FI.
+
+15. (408) The consolidated automatic test equipment (CATE) test 
+station is divided into what four
+subsystems?
+
+a. Measurement, stimulus, test, and control.
+b. Measurement, test, control, interface.
+c. Interface, stimulus, VXI, control.
+d. Interface, test, control, VXI.
+
+16. (408) What component of the consolidated automatic test 
+equipment (CATE) control subsystem primarily provides control of, and acts as the resource manger for the 
+Versa Modulo Europa extension for instruments (VXI)/multisystem extension interface 
+(MXI) bus?
+
+a. PS2 (R) computer.
+b. VXI no. 2 computer.
+c. Disk interface board.
+d. VXI no. I frame-grabber computer.
+
+17. (408) What component of the consolidated automatic test 
+equipment (CATE) computer system
+board provides an interface for the keyboard and one auxiliary 
+device?
+
+a. Serial port.
+b. Parallel port.
+c. Keyboard controller.
+d. Micro channel expansion.
+
+18. (408) An over-temperature high signal is generated when the 
+temperature in bay I of the
+consolidated automatic test equipment (CATE) reaches
+
+a. 100 °F.
+b. 110 °F.
+c. 120 °F.
+d. 130 °F.
+
+19. (409) The electronic loads of the consolidated automatic test 
+equipment (CATE) programmable
+load assembly do not operate in the
+
+a. pulse mode.
+b. linear mode.
+c. constant current mode.
+d. constant resistance mode.
+
+20. (409) The test subsystem component that provides an interface 
+between the consolidated automatic test equipment (CATE) digital word generator (DWG) and 
+the unit under test (UUT) is
+the
+
+a. DC power supply.
+b. programmable load.
+c. waveform analyzer.
+d. logic level converter.
+
+21. (409) The consolidated automatic test equipment (CATE) test subsystem 
+component that isndesigned to interface directly to a transistor-transistor logic (TTL) load of 
+a unit under test (UUT) is the
+
+a. programmable load.
+b. waveform analyzer.
+c. logic level converter.
+d. digital word generator.
+
+22. (410) On the consolidated automatic test equipment (CATE), what 
+interface assembly module is
+basically a radio frequency (RF) multiplexer that switches logic and video 
+signals?
+
+a. RF stimulus module.
+b. Signal switching module.
+c. Precision measurements module.
+d. RIF general measurements module.
+
+23. (411) The three light-emitting diodes (LEDs) on the front panel of the 
+consolidated automatic test equipment (CATE) Versa Modulo Europa Extension for Instruments (VXI)
+multisystem extension interface (MXI) interface module indicate
+
+a. TRIGIN, VXI access, and MXI access.
+b. SYSFAIL, VXI access, and MXI access.
+c. TRIGOUT, VXI access, and MXI access.
+d. SYSRESET, VXI access, and MXI access.
+
+24. (411) The consolidated automatic test equipment Versa Modulo Europa 
+Extension for Instruments (VXI)-multisystem extension interface (MXI) interface module interfaces 
+module components that control the direction of VME bus data lines is the
+
+a. VXI bus system controllers.
+b. VME bus data transceivers.
+c. VME bus address transceivers.
+d. VME bus control signal transceivers.
+
+25. (412) When you select the consolidated automatic test equipment (CATE) 
+calibration program to
+actually load the program, what will be invoked?
+
+a. MATE online editor (MOLE).
+b. Modular Automatic Test Equipment (MATE).
+c. MATE operating system (MOS).
+d. MATE test executive (MTE).
+
+26. (412) What three options does the consolidated automatic test equipment 
+(CATE) calibration
+menu provide the operator?
+
+a. Terminate station CAL, test results, and calibration report.
+b. Execute station CAL, test results, and calibration report.
+c. Restart station CAL, test results, and calibration report.
+d. Stop station CAL, test results, and calibration report.
+
+27. (413) What software set contains the basic source of data the computer uses to operate the test
+station?
+
+a. Modular Automatic Test Equipment (MATE) test executive (MTE).
+b. MATE operating system (MOS).
+c. MATE abbreviated test language for all systems (ATLAS) compiler (MAC).
+d. MATE online editor (MOLE).
+
+28. (414) Function keys used in the Modular Automatic Test Equipment (MATE) on-line editor
+(MOLE) are divided into these four types:
+
+a. Text operation, control, position, and mode.
+b. Mode, window position, control, and text operation.
+c. Window position, text operation, mode, and position.
+d. Position, text operation, window position, and control.
+
+29. (414) Mode Keys in "page mode" will define a page as having
+
+a. 54 lines or less of text.
+b. 60 lines or less of text.
+c. 66 lines or less of text.
+d. 72 lines or less of text.
+
+30. (415) The Modular Automatic Test Equipment (MATE) test executive (MTE) commands can be
+entered by programming the
+
+a. control keys.
+b. function keys.
+c. alternate keys.
+d. Modular Automatic Test Equipment (MATE) online editor (MOLE) command keys.

@@ -1,0 +1,1011 @@
+1. (201) The network that the Air Force supply system is connected to 
+that provides you with the parts
+you need is the
+
+a. Global Combat Support System (GCSS).
+b. Unit Manpower Document (UMD)
+c. Unit Personnel Management Roster (LJMPR).
+d. Air Force Form 797.
+
+2. (202) The Global Combat Support System-Air Force (GCSS-AF) 
+program has how many major
+goals?
+
+a. One.
+b. Two.
+C. Three.
+d. Four.
+
+3. (203) Which manual is available on CD ROM to guide you through the 
+USAF standard base
+supply customers procedures?
+
+a. AFM 21-101.
+b. AFMAN 23-110 SB S S, Vol Il, part two.
+c. AFM 66-279 SBSS, Vol Il part thirteen.
+d. AFMAN 23-110 SB SS, Vol 11, part thirteen.
+
+4. (204) What are the first two digits in a I 0-digit SPRAM listing?
+
+a. Serial number.
+b. Bench stock number.
+c. Work center code.
+d. Major command code.
+
+5. (204) Which block of supply training covers repair cycle management 
+for due-in from maintenance
+(DIFM) monitors?
+
+a. I.
+b. IIA.
+c. IIB.
+d. III.
+
+6. (205) What maximum percent of the bench stock authorization level 
+can you keep on hand?
+
+a. 50.
+b. 100.
+c. 150.
+d. 200.
+
+7. (205) Which listings applies to bench stock?
+
+a. D04.
+b. D18.
+c. M04.
+d. M30.
+
+8. (205) The most critical time when local units really need to use a 
+qualified products list (QPL) is
+when they purchase products directly from
+
+a. Supply.
+b. the GSA store.
+c. individual issue.
+d. commercial sources.
+
+9. (205) What lists a group of manufacturers and their commercial 
+products that have been tested and
+meet the various requirements contained in the Military Specification?
+
+a. Due-in print out.
+b. Due-out print out.
+c. Back order listing.
+d. Qualified Products List (QPL).
+
+10. (206) Review the D04, Daily Document Register, for
+
+a. due-outs for supply point.
+b. due-out releases and cancellations.
+c. bench stock additions and deletions.
+d. due-in from maintenance (DIFM) status.
+
+11. (207) On the M30, Due-Out Validation Listing, due-outs for urgency of 
+need (UND) C equipment
+are validated
+
+a. weekly.
+b. monthly.
+c. quarterly.
+d. semiannually.
+
+12. (207) On the M30, Due-Out Validation Listing, a transaction exception 
+(TEX) code of 4 means
+
+a. fill or kill.
+b. do not requisition.
+c. release specific due-out.
+d. reinput of killed issue request.
+
+13. (208) On the D 18, Priority Monitor Report, an asterisk in the 
+"Memo/Firm Due-Out Indicator"
+column indicates
+
+a. has been shipped.
+b. is not procurable.
+c. has funds obligated.
+d. is due out for release.
+
+14. (209) On the D23, Due-In From Maintenance Listing, which column 
+would contain the term
+MAINT OFF ATTN REQ?
+
+a. CI.
+b. ADV.
+c. PRE.
+d. PHRASE.
+
+15. (210) What System is an on-line, interactive program that supports users worldwide and provides
+a consistent method to efficiently manage all equipment for wartime missions, peacetime
+missions, and deployments, throughout the Air Force?
+
+a. Air Force Equipment Management Systems (AFEMS).
+b. Execution and Prioritization of Repair Support System (EXPRESS).
+c. Standard Base Supply System (SBSS).
+d. AF supply system.
+
+16. (211) Equipment custodians record requests for changes to equipment 
+accounts on AF Form
+
+a. 126.
+b. 601.
+c. 1297.
+d. 1534.
+
+17. (212) During a custodian transfer, EME personnel will provide how 
+many copies of a new CA/CRL?
+
+a. One.
+b. Two.
+c. Three.
+d. Four.
+
+18. (212) What form is used to request an item that is in the Allowance 
+Standard Retrieval System
+(ASRS) and requires wing-level approval?
+
+a. AF Form 601.
+b. DD Form 200.
+c. AF Form 2005.
+d. DD Form 1348-6.
+
+19. (213) You may voluntarily pay for the property when the value of the 
+loss is
+
+a. $500 or less.
+b. $1,000 or less.
+c. $1,500 or less.
+d. $2,000 or less.
+
+20. (214) All test measurement diagnostic equipment (TMDE) must be 
+delivered to the precision
+measuring equipment laboratory (PMEEL) when scheduled for
+
+a. storage.
+b. replacement.
+c. comme ial testing.
+d. calibration or maintenance.
+
+21. (215) How many priority systems does Base Supply personnel use 
+when responding to your
+needs?
+
+a. One.
+b. Two.
+c. Three.
+d. Four.
+
+22. (215) High priority requests inflate the overall cost of assets by 
+increasing
+
+a. the number of DIFM parts on hand.
+b. transportation and handling costs.
+c. depot repair costs.
+d. manpower costs.
+
+23. (216) The overall objective of the Repair Cycle Support System (RCSS) 
+is to
+
+a. prioritize repair cycle assets.
+b. maximize the repair capability.
+c. get less dependent of the IREP program.
+d. get DIFM parts turned around as fast as possible.
+
+24. (216) When does the repair cycle time start for due-in-from 
+maintenance (DIFM) parts?
+
+a. When you receive the part it.
+b. As soon as you order the part
+c. When you turn the part into the RCSS.
+d. As soon as you remove the part from an aircraft, engine, or piece of equipment.
+
+25. (217) Which item will require complete overhaul at depot?
+
+a. Jet engine hot sections.
+b. Any oil system component.
+c. Items that are contaminated.
+d. Any fuel system component.
+
+26. (217) Economical repair of Air Force property is set at what percentage 
+of the current stock list price?
+
+a. 60.
+b. 65.
+c. 70.
+d. 75.
+
+27. (217) Which of the following would be included in a repair cost estimate?
+
+a. Tires.
+b. Tool kits.
+c. Antifreeze.
+d. Indirect expenses.
+
+28. (218) What aids depot managers in making choices in a resource constrained environment where
+all customer needs cannot be met on a given day?
+
+a. Phase.
+b. CAMS.
+c. Depot.
+d. EXPRESS.
+
+29. (218) What priority sequence does the Execution and Prioritization of Repair Support System
+(EXPRESS) generate for all Depot Repair Enhancement Program (DREP) items repaired or
+managed by AFMC?
+
+a. Daily.
+b. Weekly.
+c. Bimonthly.
+d. Monthly.
+
+30. (219) What at the Air Force Materiel Command (AFMC) computes 
+base and depot levels for
+selected reparable (XDx) items?
+
+a. SBSS.
+b. CAMS.
+c. Readiness Based Leveling System.
+d. Depot.
+
+31. (220) By beginning replenishment early and resupplying throughout operations, Air Force combat
+units are able to deploy with
+
+a. a back up supply.
+b. depot supplies.
+c. a commercial backup.
+d. a smaller mobility footprint.
+
+32. (221) What is the network called that purchases and manages a variety of supplies and services to
+include fuel, food, clothing, construction supplies, electronics, medical supplies, distribution. and
+disposal reutilization services?
+
+a. Readiness Based Leveling System.
+b. Lead centers.
+C. Supply.
+d. Depot.
+
+33. (222) Guidance for emergency eyewashes and showers is found in 
+AFOSH STD 91
+
+a. -45.
+b. -66.
+c. -100.
+d. -101.
+
+34. (222) The lockout/tagout concept is used to isolate machinery and 
+equipment from
+
+a. people.
+b. damage.
+c. potential damage to aircraft.
+d. potentially hazardous energy.
+
+35. (223) The quarterly wing maintenance plan is developed by the 
+personnel in
+
+a. Quality Assurance.
+b. Logistics Group Support.
+c. Maintenance Operations Center.
+d. Plans, Scheduling, and Documentation.
+
+36. (223) Which of these is discussed at the daily scheduling meeting?
+
+a. D23, DIFM listing.
+b. Spare engine status.
+c. Mobility requirements.
+d. All open, in-work jobs.
+
+37. (223) Installed engine Time Compliance Technical Orders (TCTOs) are 
+managed by
+
+a. the engine manager.
+b. Quality Assurance personnel.
+c. the personnel in the Maintenance Operation Center.
+d. the personnel in the plans, scheduling, and documentation section.
+
+38. (224) How often does the engine manager report engine status to the 
+MAJCOM?
+
+a. Daily.
+b. Weekly.
+c. Monthly.
+d. Quarterly.
+
+39. (224) Engine removal rates are used to determine
+
+a. manning.
+b. flying hours.
+c. engine pipeline times.
+d. spare engine requirements.
+
+40. (225) The most common logistic indicator for a wing is its
+
+a. budget.
+b. sortie rate.
+c. engine status.
+d. deployment rate.
+
+41. (225) Any measurement or statistic that tells you how well your unit is 
+functioning and helps you
+plan for the future is a
+
+a. logistics indicator.
+b. manpower indicator.
+c. supply delivery indicator.
+d. manpower reporting statistic.
+
+42. (226) The Air Force is shifting its maintenance philosophy, 
+procedures, and organization to
+accommodate
+
+a. one level maintenance (1LM).
+b. two level maintenance (2LM).
+c. three level maintenance (3LM)
+d. four level maintenance (4LM).
+
+43. (226) Which repair center is a hybrid of 3LM and 2LM and combines intermediate level
+maintenance from multiple bases to one location?
+
+a. Regional.
+b. Depot.
+c. Backshop.
+d. Home station.
+
+44. (227) Which numerical expression represents manpower requirements 
+that respond to varying
+levels of workload?
+
+a. D23.
+b. M30.
+c. Unit Manpower Document (UMD).
+d. Air Force Manpower Standards.
+
+45. (228) Which of the following is a system of computer simulation programs developed to emulate
+the interactions between aircraft maintenance, operations, and supply in a day-to-day "real world"
+environment?
+
+a. D23.
+b. M30.
+c. Logistics Composite Model.
+d. Air Force Manpower Standards.
+
+46. (229) The primary source for reflecting how many positions are 
+authorized in a shop is the
+
+a. D23.
+b. M30.
+c. Unit Manpower Document (UMD).
+d. Unit Personnel Management Roster (UPMR).
+
+47. (229) Mismatched data on the Unit Personnel Management Roster 
+(UPMR) refers to
+
+a. mismatched AFSCs.
+b. different shop codes.
+c. different organizations.
+d. mismatched skill level.
+
+48. (230) For resource management, what is the lowest level of a cost 
+center?
+
+a. The flight.
+b. Base Supply.
+c. Squadron RA.
+d. Base budget office.
+
+49. (230) In resource management, which individual is the Responsibility 
+Center manager (RCM)?
+
+a. Flight Chief.
+b. Resource Advisor.
+c. Squadron Commander.
+d. Support Section Chief.
+
+50. (230) Based on your budget, your cost center (CC) will be allocated 
+funds by
+
+a . the MAJCOM.
+b. Base Supply.
+c. the Base Comptroller.
+d. the Resource Advisor.
+
+51. (231) Many of the basic decisions determining the level of 
+expenditures of resources are decided
+at what levels?
+
+a. HQ USAF and MAJCOM.
+b. Base Supply and Flights.
+c. Resource advisor and workcenters.
+d. Base Comptroller and Resource Advisor.
+
+52. (231) What type of appropriations finance most of the day-to-day cost 
+of running an Air Force
+base?
+
+a. Resource advisor.
+b. Base Comptroller.
+c. Operations and maintenance (O&M).
+d. Base Comptroller and Resource advisor.
+
+53. (232) On a day-to-day basis, responsibility for regulating the consumption of work hours,
+supplies, equipment, and contract services in the production of things or the performance of tasks
+rests with the
+
+a. commander.
+b. resource adviser.
+c. cost center (CC) manager.
+d. responsibility center (RC) manager.
+
+54. (233) Authority for the Air Force to purchase resources through 
+appropriations is granted by the
+
+a. President.
+b. Chief of Staff
+c. Secretary of Defense.
+d. United States Congress.
+
+55. (233) The dollar ceiling of each procurement appropriation is subject 
+to the fund control
+requirements of
+
+a. Title 31 of the United States Code.
+b. Title 32 of the United States Code.
+c. Title 31 of the United States Manual.
+d. Title 32 of the United States Manual.
+
+56. (234) A key program in managing your budget will be your 
+organization's use of the
+
+a. 3010.
+b. 3080.
+c. Automated Technical Order System.
+d. Air Force Government-Wide Purchase Card Program.
+
+57. (234) Under the Air Force Government-Wide Purchase Card Program, 
+the cardholder
+
+a. can appoint an alternate cardholder.
+b. signs the Master Account Summary.
+c. is the only person authorized to use his or her card.
+d. submits a written report to the MAJCOM Program Coordinator regarding lost or stolen cards.
+
+58. (235) When it comes to inventory management, what is the dollar threshold that is established for
+mandatory inclusion of items in the information processing management system (IPMS)?
+
+a. $200.
+b. $300.
+c. $400.
+d. $500.
+
+59. (236) Which software package is used as the Air Force standard for 
+generating slides for
+presentations?
+
+a. Paint.
+b. Excel.
+c. FormFlow.
+d. PowerPoint.
+
+60. (236) Which software package would you use to look up a Air Force 
+instruction?
+
+a. AFPEL.
+b. ATOMS.
+c. Win 95.
+d. Win 3.11.
+
+61. (237) What is the meaning of the acronym CMOS?
+
+a. Computer management operating system.
+b. Computer management operating startup.
+c. Complementary metal-oxide semiconductor.
+d. Complementary mirror-outside semiconductor.
+
+62. (237) What is the meaning of the acronym VGA?
+
+a. Virtual game array.
+b. Video graphics array.
+c. Virtual game adapter.
+d. Video graphics adapter.
+
+63. (238) What is a collection of multimedia, documents and text 
+resources available globally through
+the Internet?
+
+a. Word.
+b. Excel.
+c. Power Point.
+d. World Wide Web.
+
+64. (238) What Air Force vision is to provide secure, timely, accurate 
+decisional information to the
+warfighter anywhere in the world?
+
+a. Joint Vision 2010.
+b. Joint Vision 2020.
+c. World Wide Web.
+d. Air Force Portal.
+
+65. (239) Status of resources and training (SORTS) is a
+
+a. family of computer data bases and a report system to update them.
+b. central computer for each command that reports and updates data bases.
+c. family of computers for each MAJCOM to track the outbound and inbound assignments.
+d. central computer at HQ AFMC that has data bases for each AF member and a report system to update them.
+
+66. (239) Policy for release of status of resources and training (SORTS) data to agencies not on
+original distribution comes from the
+
+a. White House.
+b. MAJCOM commander
+c. Secretary of Defense (SECDEF).
+d. Chairman, Joint Chiefs of Staff (CJCS).
+
+67. (240) When reporting status of resources and training (SORTS) data, the basic identity will
+include the name,
+
+a. unit identifier code, unit descriptor code, unit level and type, and organizing flight.
+b. unit identifier code, unit descriptor code, unit level and type, and organizing MAJCOM.
+c. command identifier code, command descriptor code, command level and type, and organizing flight.
+d. command identifier code, command descriptor code, command level and type, and organizing MAJCOM.
+
+68. (240) What is included when reporting status of resources and training 
+(SORTS)?
+
+a. Wartime required, authorized, assigned, on-hand, and deployable personnel data.
+b. Peacetime required, authorized, assigned, on-hand, and deployable personnel data.
+c. Wartime required, authorized, assigned, on-hand, and nondeployable personnel data.
+d. Peacetime required, authorized, assigned, on-hand, and nondeployable personnel data.
+
+69. (240) The reason for having status of resources and training (SORTS) 
+is because it
+
+a. is mandated by regulation.
+b. is the only way to get on the Internet.
+c. permits automatic updates to computer databases.
+d. has all USAF military members listed in its database.
+
+70. (240) Responsibility for maintaining current and historical status of 
+resources and training
+(SORTS) data bases by collecting, auditing, and sampling for content 
+rests with
+
+a. local commanders.
+b. MAJCOM personnel.
+c. HQ USAF personnel.
+d. personnel in functional area offices.
+
+71. (240) Responsibility for monitoring status of resources and training 
+(SORTS) to identify
+problems, determine causes, and possible solutions rests with
+
+a. local commanders.
+b. MAJCOM personnel.
+c. HQ USAF personnel.
+d. personnel in functional area offices.
+
+72. (240) Responsibility for assigning functional area office responsibility 
+for each measured unit
+type in status of resources and training (SORTS) rests with
+
+a. local commanders.
+b. MAJCOM personnel.
+c. HQ USAF personnel.
+d. personnel in functional area offices.
+
+73. (241) Your focal point for any questions and problems concerning 
+land mobile radios (LMR) is
+the
+
+a. LAN manager.
+b. network manager.
+c. base LMR manager.
+d. C4 systems officer (CSO).
+
+74. (241) To obtain maximum performance, what must be done to a radio 
+battery before it is charged?
+
+a. Follow battery-charging instructions.
+b. Make sure the battery is fully discharged.
+c. Clean the contacts on the battery as well as the charging device.
+d. Check the battery label for the expiration date; turn in if expired.
+
+75. (242) How many inches from the microphone should you keep your 
+mouth when transmitting on
+a radio?
+
+a. 2.
+b. 4.
+c. 6.
+d. 12.
+
+76. (242) What is the phonetic alphabet designation for the letter N?
+
+a. Nova.
+b. Nancy.
+c. Nebraska.
+d. November.
+
+77. (243) The minimum safe operating distance for transmitting with a 
+radio near a location where
+volatile gases, dust, liquids, or vapors are present is
+
+a. 50 feet.
+b. 100 feet.
+c. 150 feet.
+d. 300 feet.
+
+78. (243) What is enhanced when Operations Security (OPSEC) is applied 
+by commanders and other
+decision makers during the earliest stages of planning?
+
+a. CCD.
+b. OPSEC.
+c. COMSEC.
+d. Operational effectiveness.
+
+79. (243) What type of security results from all measures designed to protect transmissions from
+interception and exploitation by means other than cryptoanalysis (code-breaking)?
+
+a. COMSEC.
+b. Base Security
+c. Cryptosecurity.
+d. Transmission security.
+
+80. (243) What type of land mobile radio (LMR) maintenance is authorized 
+to be performed by the
+user?
+
+a. Adjust squelch.
+b. Change antennas.
+c. Routine cleaning.
+d. Removal of secure devices when ordered by the C4 officer.
+
+81. (244) Responsibility for determining whether open or unattended storage areas provide adequate
+protection for classified material rests with the
+
+a. COMSEC officer.
+b. resource manager.
+c. installation commander.
+d. C4 systems officer (CSO).
+
+82. (244) What units are not required to have an emergency destruction plan for classified material?
+
+a. Those operating under NATO security.
+b. Those located in the 50 states of the United States.
+c. PACAF mobility units fulfilling an alert commitment.
+d. Emergency destruction plans are mandatory for all units.
+
+83. (245) In the event of an emergency landing, responsibility for the security of classified equipment
+on an aircraft rests with the
+
+a. aircraft commander.
+b. receiving base's wing commander.
+c. flight squadron commander.
+d. receiving base's production superintendent.
+
+84. (246) Future training requirements are outlined in the
+
+a. training records (623s).
+b. system training plan (STP).
+c. job qualification standard (797s).
+d. specialty training standard (STS).
+
+85. (246) The overall training concept of the Air Force is aligned with
+
+a. the job qualification standard.
+b. those of the Army and Navy.
+c. the training outlined in the training records.
+d. the Air Force training doctrine as stated in AFM 1-1.
+
+86. (247) The training plan team (TPT) network is made up of
+
+a. AF users and the training world.
+b. field training detachment instructors and commanders.
+c. flight line maintenance personnel and the system manufactures.
+d. MAJCOM commanders and Air Staff functional representatives.
+
+87. (248) Who uses the Automated Technical Order Management System (ATOMS) program to
+prepare TO Publication Request (TOPR) data files for electronic submission to the Tinker
+Intersite Gateway?
+
+a. TO Distribution Office (TODO).
+b. Product improvement working group.
+c. Instructional system design working group.
+d. Technical improvement product working group.
+
+88. (249) Currently, what do Air Force personnel use to manage, acquire, improve, publish, stock,
+and distribute paper and digital technical orders, and will eventually replace Automated Technical
+Order Management System (ATOMS)?
+
+a. Product improvement working group.
+b. Instructional system design working group.
+c. Technical improvement product working group.
+d. Joint Computer-aided Acquisition and Logistic Support (JCALS) system.
+
+89. (249) The Joint Computer-Aided Acquisition and Logistics Support System (JCALS) is primarily
+used by
+
+a. training managers.
+b. TO managers.
+c. medical managers.
+d. Instructional System Design managers.
+
+90. (250) What strategic steering group is chartered to improve the quality of TOs, define policy, and
+develop procedures required to achieve the Air Force digital TO Vision and Concept of
+Operations (CONOPS)?
+
+a. Operations working group.
+b. Product improvement working group.
+c. Instructional system design working group.
+d. Centralized Technical Order Management Organization (CTOM).
+
+91. (250) Which of the following is a working level group that reviews and approves all Air Force
+policy and guidance relating to the TO system?
+
+a. Operations working group.
+b. Product improvement working group.
+c. Instructional system design working group.
+d. CTOM Committee.
+
+92. (251) Technical compliance technical order (TCTO) kits are not necessary for
+
+a. routine action TCTOs.
+b. urgent action TCTOs.
+c. emergency action TCTOs.
+d. condition or inspection TCTOs.
+
+93. (252) Which technical order would you check to find a list of addresses for the appropriate
+Technical Order Management Agency (TOMA)?
+
+a. TO 00-5-1.
+b. TO 00-5-2.
+c. TO 00-20-5.
+d. TO 00-20-1.
+
+94. (252) In which category is a technical order improvement that, if not approved, could result in a
+fatality or serious injury to people and impede the mission?
+
+a. Urgent.
+b. Priority.
+c. Routine.
+d. Emergency.
+
+95. (252) Which of these criteria is not used in the submission of an AFTO Form 22?
+
+a. Mission impact.
+b. Work simplification.
+c. Damage to equipment.
+d. Cost savings of more than 50 dollars.
+
+96. (252) Responsibility for making sure an AFTO Form 22 is valid and warrants submission, rests
+with the
+
+a. individual.
+b. supervisor.
+c. flight chief.
+d. personnel in the quality assurance section.
+
+97. (253) Who conducts meetings as scheduled by the TO Manager to take action on Publication
+Change Requests?
+
+a. Individual.
+b. Supervisor.
+c. Flight chief
+d. Technical Order Review Board.
+
+98. (254) In what agency do personnel serve as the focal point for submitting deficiency reports and
+have overall management responsibility for deficiency reports?
+
+a. Depot.
+b. The screening point.
+c. Higher headquarters.
+d. Product improvement (PI) office.
+
+99. (255) In which category are General/Methods and Procedures TOs?
+
+a. 0.
+b. 00.
+c. 33.
+d. 36.
+
+100. (256) What program identifies serial-numbered items that enter the repair cycle at an abnormally
+high rate when compared to the total population of like assets and repairs them or removes them
+from supply?
+
+a. Air Force Precious Metal Program.
+b. Air Force Bad Actor Program.
+c. Deficiency Reporting Program.
+d. Working Group Program.
+
+101. (257) The method and form Base Supply uses to report discrepancies is the
+
+a. Air Force Precious Metal Program.
+b. Air Force Bad Actor Program.
+c. Deficiency Reporting Program.
+d. Standard Form 364, Report of Discrepancy.
+
+102. (257) Discrepancy reports involving what type of items are always followed up on regardless of
+the cost?
+
+a. Classified.
+b. Air Force Bad Actor Program.
+c. Deficiency Reporting Program.
+d. Working Group Program.
+
+103. (258) The purpose of the AF Oil Analysis Program is to implement the goals and policies of the
+Joint Oil Analysis Program's tri-service agreement to meet the needs of the
+
+a. Air Force Mission.
+b. Air Force Bad Actor Program.
+c. Deficiency Reporting Program.
+d. Air Force Precious Metal Program.
+
+104. (259) Which problem most frequently affects oil sample integrity?
+
+a. Clean oil.
+b. Contamination.
+c. Following technical data for sampling.
+d. Sharp decreases in the concentration of wear-metals.
+
+105. (260) In the oil analysis program, how many basic techniques are 
+there for taking an oil sample?
+
+a. One.
+b. Two.
+c. Three.
+d. Four.
+
+106. (261) Where are shelf-life contact points established to provide 
+effective administration of the
+overall shelf-life program?
+
+a. QA.
+b. ALC.
+c. Wash rack.
+d. Fuel shop.
+
+107. (262) All Type II shelf-life ERRC designator XD(C/T) and XF(P) items 
+must undergo what
+percentage of testing or inspection?
+
+a. 70.
+b. 80.
+c. 90.
+d. 100.
+
+108. (263) Which commander appoints in writing or delegates the 
+appointment of a Precious Metal
+Recovery Program manager?
+
+a. Armed Forces commander.
+b. MAJCOM commander.
+c. Installation commander.
+d. Squadron commander.
+
+109. (264) Which codes indicate the existence or nonexistence of precious 
+metal(s) contained in or on
+items of supply?
+
+a. Failure codes.
+b. Supply codes.
+c. Deficiency Reporting Codes.
+d. Precious Metals Indicator Codes (PMIC)
+
+110. (264) Which precious metals indicator code (PMIC) indicates the 
+existence of the precious metal
+"gold" in or on items of supply?
+
+a. A.
+b. C.
+c. G.
+d. U.
+
+111. (265) What program encourages innovation, ingenuity and resourcefulness by allowing
+organizations to identify consumable items (primarily coded XB3 and XF3) and nonconsumable
+items (XD2) for base level or contract repair?
+
+a. Air Force Precious Metal Program.
+b. Air Force Bad Actor Program.
+c. Deficiency Reporting Program.
+d. Air Force Repair Enhancement Program.
+
+112. (265) Who determines whether or not to participate in Air Force 
+Repair Enhancement Program
+(AFREP)?
+
+a. MAJCOM.
+b. Base Commander.
+c. Unit Commander.
+d. Flight Commander
+
+113. (266) The approval process only pertains to what type initiatives?
+
+a. Old.
+b. New.
+c. Revised.
+d. Rescinded.
+
+114. (267) Who provides technical expertise and engineering support 
+during each aerospace system?
+
+a. Major Command.
+b. Designated representative.
+c. Deficiency Reporting Program manager.
+d. Air, Force Corrosion Prevention and Control Office.
+
+115. (268) What provides an assessment of the vulnerability (or lethality) of a weapon system as it
+progresses through its development and prior to the full-rate production decision?
+
+a. Operational Test and Evaluation.
+b. Developmental Test and Evaluation.
+c. Combined Test and Evaluation.
+d. Live Fire Test and Evaluation.
+
+116. (269) What is conducted in an environment as realistic as possible to determine the system's
+operational effectiveness and operational suitability, and to ensure operational requirements are
+met?
+
+a. Protection Analysis.
+b. Report of Discrepancy.
+c. Operational Test and Evaluation.
+d. Developmental Test and Evaluation.
+
+117. (269) What is conducted to determine the operational effectiveness and suitability of systems
+undergoing research and development (R&D) efforts?
+
+a. Operational Test and Evaluation.
+b. Developmental Test and Evaluation.
+c. Initial Operational Test and Evaluation.
+d. Follow-on Operational Test and Evaluation.
+
+118. (270) Which is a collection of activities that prevents or mitigates successful hostile actions
+against Air Force people and resources when they are not directly engaged with the enemy?
+
+a. Force Protection.
+b. Unit Manpower Document.
+c. Deficiency Reporting Program.
+d. Unit Personnel Management Roster.
+
+119. (270) Which force protection is preemptive measures taken to deny, defeat, or destroy hostile
+forces before they are committed to direct hostile activity but whose intent is to target Air Force
+assets when they are not engaged in combat operations?
+
+a. Defensive.
+b. Offensive
+c. Intelligence.
+d. Countermeasures.
+
+120. (271) Which of the following has the responsibility for protecting Air 
+Force assets when
+organizing for force protection?
+
+a. Commanders at all levels.
+b. Air Force Bad Actor Program.
+c. Deficiency Reporting Program.
+d. Air Force Precious Metal Program.
+
+121. (272) Which threat is a calculated use of violence or threat of violence to instill fear and is
+intended to coerce or intimidate governments or societies in the pursuit of goals that are
+generally political, religious, or ideological?
+
+a. Insider.
+b. Terrorism.
+c. Conventional.
+d. Unconventional.
+
+122. (273) Which is a continual process of compiling and examining all available information
+concerning potential threats?
+
+a. Insider threat.
+b. Threat analysis.
+c. Terrorism threat.
+d. Conventional threat.
+
+123. (274) Flashlights used in fuel repair facilities must be
+
+a. grounded within the 50 foot zone.
+b. intrinsically safe and inspected before use.
+C. inspected by Quality Assurance prior to each use.
+d. comply with the Air Force Precious Metal Program.

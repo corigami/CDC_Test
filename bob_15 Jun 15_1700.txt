@@ -1,0 +1,58 @@
+AIS CDC Test Results for:
+
+Name: bob
+Date: 06/15/2015 05:00:39
+CDC Set 1
+
+Total Questions: 10
+Number missed: 8
+Score: 20.0%
+
+210. (427) Which memory device has its programming built into it?
+     A) EPROM. <---  YOU CHOSE
+     B) RAM.
+     C) PROM.
+     D) ROM. <---  CORRECT ANSWER
+
+49. (020) What is the main safety hazard associated with compressed gases?
+     A) Uncontrolled release of compressed gasses.
+     B) Depleting oxygen in confined spaces. <---  YOU CHOSE
+     C) Eye injures from compressed gasses.
+     D) Steel containers acting as projectiles <---  CORRECT ANSWER
+
+102. (209) What major components compose the F-16 engine control system?
+     A) Air data computer, improved digital electronics engine unit, and main fuel control.
+     B) Air data computer, digital electronics engine unit, and main fuel control. <---  YOU CHOSE
+     C) Afterburner fuel control, digital electronics engine unit, and main fuel control. <---  CORRECT ANSWER
+     D) Afterburner fuel control, improved digital electronics engine unit, and main fuel control.
+
+81. (203) Of what is the flight control computer (FLCC) the main component?
+     A) F- 15 automatic flight control system. <---  YOU CHOSE
+     B) F-16 hydromechanical system.
+     C) F-15 primary flight control system.
+     D) F- 16 flight control system. <---  CORRECT ANSWER
+
+180. (413) Which number system was adopted to simplify and standardize terminology?
+     A) Binary. <---  YOU CHOSE
+     B) Hexidecimal.
+     C) Metric. <---  CORRECT ANSWER
+     D) Decimal.
+
+107. (210) Audio/communication control panels
+     A) bypass the need to position the landing gear in the up position. <---  YOU CHOSE
+     B) provide status of loaded missiles.
+     C) are used during ground functional checks. <---  CORRECT ANSWER
+     D) control the emergency release of conventional weapons.
+
+111. (211) The 10,000 pound cargo weight limitation for a single pallet may be increased when the side and top nets are replaced by
+     A) cargo chains only. <---  YOU CHOSE
+     B) cargo straps and/or chains. <---  CORRECT ANSWER
+     C) cargo straps only.
+     D) none of the above; the weight limit can't be increased.
+
+120. (213) What component is the heart of the F-16 inertial navigation unit?
+     A) Integrator. <---  YOU CHOSE
+     B) Stabilized platform. <---  CORRECT ANSWER
+     C) Performance monitor.
+     D) Computer.
+

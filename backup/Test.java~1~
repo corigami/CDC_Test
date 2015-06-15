@@ -1,0 +1,10 @@
+import java.applet.*;
+
+public class Test extends Applet
+{
+  public static void main(String[] args)
+  {
+    CdcMain cdcMain = new CdcMain();
+cdcMain.setVisible(true);
+  }
+}

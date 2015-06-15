@@ -1,0 +1,812 @@
+1. (001) Who is mainly responsible for the mission of the US Air Force?
+
+a. Secretary of Defense.
+b. Joint Chiefs of Staff.
+c. Each Air Force organization.
+d. President of the United States.
+
+2. (001) The mission of each Air Force unit is concerned with the
+
+a. cost of support equipment.
+b. number of assigned aircraft.
+c. number of people to be trained.
+d. maintenance support of tenant organizations.
+
+3. (002) Who administers the squadron safety program and coordinates 
+with the squadron safety
+monitor and flights to ensure all personnel get the required safety 
+training?
+
+a. Expediter.
+b. Flight Chief.
+c. Base Commander.
+d. Squadron Commander.
+
+4. (002) Maintenance supervision is referred to as
+
+a. Quality Assurance (QA).
+b. Logistic Group Commander (LG/CC).
+c. Operations Group Commander (OG/CC).
+d. Squadron Maintenance Officer (SMO)/Maintenance
+
+5. (003) Professional duties under "Service Before Self' that take 
+precedence over personal desires
+are rule
+
+a. following only.
+b. following, respect for others.
+c. following, respect for others, discipline and self control only.
+d. following, respect for others, discipline and self control and faith in the system.
+
+6. (004) Which senior NCO directs the overall maintenance effort of their 
+unit?
+
+a. Production superintendent.
+b. Senior enlisted advisor.
+c. First sergeant.
+d. Flight chief
+
+7. (005) Who ensures procedures are followed to identify, record, and 
+clear repeat, recurring, and
+CND discrepancies?
+
+a. Flight Commander/Flight chief.
+b. Production superintendent.
+c. Technician.
+d. Expediter.
+
+8. (005) Which individual ensures personnel are coded with appropriate 
+special experience identifiers
+(SEI) on the unit personnel manpower roster (UPMR)?
+
+a. Expediter.
+b. Technician.
+c. Flight Chief
+d. Production superintendent.
+
+9. (006) Which individual is responsible to the production superintendent, ensures maintenance
+accomplishment and sortie production by managing, controlling and directing allocated resources?
+
+a. Expediter.
+b. Technician.
+c. Flight chief
+d. Production superintendent.
+
+10. (007) MAJCOM IG teams conduct independent inspections and assessments to provide the
+Secretary of the Air Force (SAF), Chief of Staff of the Air Force (CSAF), and MAJCOM
+Commanders, a status report on
+
+a. unit efficiency, effectiveness, and combat readiness.
+b. unit efficiency, effectiveness, and peace time readiness.
+c. squadron efficiency, effectiveness, and combat readiness.
+d. squadron efficiency, unit efficiency, effectiveness, and combat readiness.
+
+11. (007) What inspection is used to evaluate the ability of units with a 
+wartime or contingency
+mission to conduct their operational missions?
+
+a. Compliance Inspection (CI).
+b. Nuclear Surety Inspection (NSI).
+c. Initial Nuclear Surety Inspection (INSI).
+d. Operational Readiness Inspection (ORI).
+
+12. (007) When MAJCOMs conduct Nuclear Surety Inspections (NSIs) on each nuclear capable unit,
+within what timeframe must all inspection requirements be completed?
+
+a. 18 months.
+b. 20 months.
+c. 22 months.
+d. 24 months.
+
+13. (008) Which level develops their own assessment guidelines and Operational Readiness
+Inspection (ORI) criteria?
+
+a. MAJCOM.
+b. Squadron.
+c. Group.
+d. Wing.
+
+14. (008) Which statement describes the difference between a long and 
+short-term Special Interest
+Item (SII)?
+
+a. Long term is 6 months to a year; short term is less than 6 months.
+b. Long term is 5 months to a year; short term is more than 7 months.
+c. Long term is 4 months to a year; short term is more than 8 months.
+d. Long term is 3 months to a year; short term is more than 9 months.
+
+15. (009) In Quality Performance Measures (QPM), the primary means of transmitting all reports
+required by ACCI 21-118, Objective Wing- Aircraft Maintenance, is by
+
+a. package.
+b. postal mail.
+c. electronic mail.
+d. overnight mail.
+
+16. (009) What Quality Performance Measures (QPM) informational data 
+may be transmitted via e-mail?
+
+a. Classified.
+b. Only unclassified.
+c. Sensitive information.
+d. Secret if it has a cover letter.
+
+17. (010) The 93 01 Quality Performance Measures (QPM) report provides 
+a summary of aircraft
+
+a. in possession and daily aircraft status.
+b. not possessed and daily aircraft status.
+c. aircraft in possession and weekly aircraft status.
+d. aircraft not possessed and weekly aircraft status.
+
+18. (010) In the Quality Performance Measures (QPM) program, the Monthly Aircraft Logistics
+Indicators report is used by intermediate command and MAJCOM managers as
+
+a. an indicator of aircraft reliability.
+b. a comparison base of aircraft systems.
+c. indication of what aircraft is on their inventory.
+d. the official source document for briefings to the COM ACC.
+
+19. (010) In accordance with the Quality Perform ance Measures (QPM) 
+operational plans (Oplans)
+that are tasked for support, units are required to report on
+
+a. all aircraft.
+b. aircraft spares.
+c. code I aircraft.
+d. deployed aircraft.
+
+20. (011) The best known yardstick to measure an aircraft maintenance 
+unit is
+
+a. mission capable rate.
+b. cannibalization rate.
+c. phase flow schedule.
+d. aircraft wash schedule.
+
+21. (011) Am indicator of aircraft reliability and sometimes quality of 
+maintenance performed is
+
+a. phase flow.
+b. units abort rate.
+c. units sortie rate.
+d. aircraft wash schedule.
+
+22. (011) What is the definition for "Code 3 Break Rate"?
+
+a. The percentage of sorties that land Code 1.
+b. The percentage of sorties that land Code 2.
+c. The percentage of sorties that land Code 3.
+d. The percentage of sorties that land Code 4.
+
+23. (012) VVhich unit receives, inspects, marshals, and loads cargo for a mobility deployment?
+
+a. Frustrated cargo (FC).
+b. Hazardous cargo (HC).
+c. Deployment control center (DCC).
+d. Cargo deployment function (CDF).
+
+24. (013) The Battle Staff issues authority to begin preparation for a mobility deployment by
+
+a. giving a warning order.
+b. implementing the schedule of events.
+c. notifying the maintenance operation center (MOC).
+d. giving a deployment preparation order/executive order.
+
+25. (013) How many copies of the Shippers Declaration for Dangerous Goods Form must be
+completed and signed?
+
+a. One.
+b. Two.
+c. Three.
+d. Four.
+
+26. (014) Thefirst step in the Operational Risk Management (ORM) six
+step process is to
+
+a. assess the risk.
+b. identify the hazard.
+c. make control decisions.
+d. analyze the risk control measures.
+
+27. (015) Who will assist the Air Force Operational Risk Management (ORM) Integrated Process
+Team (IPT) in developing the Air Force ORM policy, requirements, and overall strategy by
+identifying line organization requirements?
+
+a. ORM Working Group.
+b. Air Staff for all commands.
+c. Pentagon for all commands.
+d. ACC Headquarters for all commands.
+
+28. (015) AETC will integrate the ORM process, principles, and techniques into curricula for all
+education and training programs, including accession training,
+
+a. flightline only.
+b. flightline training and technical schools.
+c. professional military training and local colleges.
+d. professional military and continuing education, and technical training.
+
+29. (016) Which commander is responsible for ensuring an effective 
+foreign object damage (FOD)
+prevention program is established?
+
+a. Wing commander (CC).
+b. Vice Wing Commander (CV).
+c. Operations group commander.
+d. Maintenance squadron commander.
+
+30. (016) Which person will be assigned as the foreign object damage 
+(FOD) Prevention Program
+Manager?
+
+a. Wing commander.
+b. Vice Wing Commander (CV).
+c. Operations group commander.
+d. Maintenance squadron commander.
+
+31. (016) If a transient aircraft has a dropped object, the local wing Dropped Object Program (DOP)
+monitor will be responsible to investigate dropped objects from a transient aircraft and will
+provide a report to the
+
+a. depot.
+b. home station DOP.
+c. organization who discovered it.
+d. base from which the aircraft last departed.
+
+32. (017) Guidance for the handling and disposal of most hazardous 
+material is presented in your
+local
+
+a. standards, regulations, and instructions.
+b. technical orders, standards, regulations, and instructions.
+c; local procedures, the USAF standards, regulations, and instructions.
+d. local regulations, the USAF standards, regulations, and instructions.
+
+33. (017) A written hazard communication program must be maintained 
+by
+
+a. each workplace using or handling hazardous materials.
+b. each MAJCOM whose personnel use or handle hazardous materials.
+c. the Air Division whose personnel use or handle hazardous materials.
+d. the OSHA office that covers personnel using or handling hazardous materials.
+
+34. (017) Who is responsible for labeling recovery drums when 
+damaged hazardous material
+containers are placed in them?
+
+a. HQ MAJCOM personnel.
+b. The hazards material officer.
+c. The bioenvironmental personnel.
+d. The organization possessing the material.
+
+35. (017) Individuals will receive Air Force Hazardous Communication 
+Program (AFHCP) training
+
+a. at the five-year assignment point and whenever a new hazard is introduced into their work area.
+b. upon initial work area assignment and whenever a new hazard is introduced into their work area.
+c. upon initial work area assignment and whenever a new hazard is spilled or exposed into their work area.
+d. at the five-year assignment point and whenever a new hazard is spilled or exposed into their work area.
+
+36. (017) When should operating instructions be prepared for 
+nonroutine task involving hazardous
+material?
+
+a. At all times with any hazardous materials.
+b. When hazardous material are too dangerous to have Ols, they must have TOs.
+c. If your base civil engineer decides the hazardous materials needs the 01.
+d. OIs are required if TOs or other official documents do not adequately describe these tasks.
+
+37. (017) When workers temporarily perform duties outside their normal jobs, responsibility for
+ensuring these workers receive the Federal Hazard Communication Training prior to beginning
+the activity rests with the
+
+a. workers.
+b. supervisor only.
+c. supervisor of the activity.
+d. federal hazard communication officer.
+
+38. (018) The facility, on an Air Force Installation, where LG personnel 
+stock, store, issue and
+distribute hazardous materials for use at base workcenters is
+
+a. Base supply.
+b. HAZMART.
+c. support section.
+d. Civil Engineering (CE).
+
+39. (018) Which Air Force form is used to submit HAZMART 
+requirements to the HAZMART?
+
+a. IDEA Application.
+b. 3259, Work Activity Sheet.
+c. 2005, Issue/Tum-in Request.
+d. Chemical Hazardous Material Request/Authorization.
+
+40. (019) The local plan for spill prevention, control, and 
+countermeasures is available at the
+
+a. base spill prevention, control, and countermeasures flight.
+b. MAJCOM HQ section for spill prevention, control, and countermeasures.
+c. environmental flight and at each organization that stores hazardous materials.
+d. base military training flight and at each organization that stores hazardous materials.
+
+41. (019) Which flight or agency established the National Pollutant 
+Discharge Elimination System
+(NPDES) permit program?
+
+a. ACC HQ environmental flight.
+b. National Fire Protection Agency.
+c. National Spill Prevention Agency.
+d. Environmental Protection Agency.
+
+42. (020) You can make changes to hardware or operations of the Mishap 
+Prevention Process at the
+smallest cost by using Category
+
+a. 1 -Planning and Engineering.
+b. 2- Procedural Actions.
+c. 3- Personnel Actions.
+d. 4- Taking Action.
+
+43. (020) Mishap rates are calculated using
+
+a. a number of events against fatalities.
+b. the USAF mishaps against foreign mishaps.
+c. the USAF mishaps against the other services.
+d. a number of events against some kind of exposure.
+
+44. (020) An essential element of successful mishap prevention and risk 
+assessment and one that must
+in no way be discouraged is
+
+a. maximum reporting.
+b. erroneous reporting.
+c. the assignment of reporting personnel.
+d. the insistence of how reports are filled out.
+
+45. (020) Which aircraft system requires special care for complete 
+diagnosis and correction in the
+event of a major malfunction?
+
+a. UHT radio.
+b. Fuel quantity.
+c. Flight control.
+d. Engine temperature.
+
+46. (021) You can locate instructions on mishap reporting, safety 
+discipline, mishap type, and follow-up actions in
+
+a. local procedures.
+b. technical orders.
+c. Air Force Instructions.
+d. Air Force Regulations.
+
+47. (021) Who has the responsibility for executing the Air Force safety 
+investigation and reporting
+program?
+
+a. MAJCOM HQ.
+b. Base safety flight.
+c. HQ Air Force Safety Center.
+d. HQ Air Force Reporting Center.
+
+48. (021) What determines how a mishap is classified?
+
+a. The class of the mishap.
+b. Severity of damage, injury, or occupational illness.
+c. Whether the mishap involved an individual or equipment.
+d. Where the mishap was located (in the US or overseas).
+
+49. (021) An item of a Class A aircraft mishap is
+
+a. damage of an Air Force aircraft.
+b. reportable damage of $1,000 or more.
+c. a fatality or permanent total disability.
+d. reportable damage of $100,000 or more.
+
+50. (021) What is a Class C aircraft mishap?
+
+a. Reportable damage between $20,000 and $200,000.
+b. Reportable damage between $200,000 and $400,000.
+c. An injury resulting in a lost workday case involving 2-4 hours.
+d. An injury resulting in a lost workday case involving 4-6 hours.
+
+51. (021) Which statement is considered a Class D aircraft mishap?
+
+a. A fatal injury involving no more than one person.
+b. A fatal injury involving at least one or more personnel.
+c. Total cost of $2,000 or more for property damage but less than $20,000.
+d. Total cost of $20,000 or more for property damage but less than $50,000.
+
+52. (022) Under the Isochronal Concept, flying hours are translated into 
+calendar periods and are
+expressed in
+
+a. days.
+b. weeks.
+c. months.
+d. years.
+
+53. (022) An acceptance inspection is performed on
+
+a. all newly assigned equipment
+b. expiration of a calendar period.
+c. accrual of specified operating hours.
+d. designated war reserve material (AIRM).
+
+54. (023) Which equipment condition inspection is outlined by equipment 
+workcard?
+
+a. Servicing Inspection.
+b. Operator Inspection.
+c. Special Inspection.
+d. War Reserve Material (WRM) Mobility Inspection.
+
+55. (023) Which inspection will be performed on all newly assigned 
+equipment?
+
+a. Special inspection.
+b. Operator inspection.
+c. Transfer inspection.
+d. Acceptance inspection.
+
+56. (024) Who is responsible for organizing a Nuclear Surety Council?
+
+a. Supervisor.
+b. Installation commander.
+c. Major Command (MAJCOM).
+d. Headquarters United States Air Force (HQ USAF).
+
+57. (025) What is the reporting flagword identifying a nuclear weapon 
+safety deficiency?
+
+a. Failure.
+b. Malfunction.
+c. DULL SWORD.
+d. SHARP SWORD.
+
+58. (025) What technical order is used to report nuclear weapon system technical order procedural
+deficiencies or inadequacies?
+
+a. TO 00-5-1, AF Technical Order System.
+b. TO 00-20-2, Maintenance Data Documentation.
+c. TO 00-5-15, AF Time Compliance Technical Order Process.
+d. TO 00-20-5, Aerospace Vehicle Inspection and Documentation.
+
+59. (026) What is your most important trait when it comes to training?
+
+a. Attitude.
+b. Experience.
+c. Knowledge.
+d. Performance.
+
+60. (026) Training conducted in the form of one-way video and two-way audio is called
+
+a. computer based instruction.
+b. computer based training.
+c. videotape training.
+d. video teletraining.
+
+61. (026) Responsibility for determining the overall direction of training within an Air Force specialty
+rests with the
+
+a. Air Force Specialty Manager.
+b. MAJCOM Functional Manager.
+c. Air Force Career Field Manager.
+d. Air Education and Training Manager.
+
+62. (026) What survey is designed to indicate the quality of AETC product (technical school
+graduates) to the field?
+
+a. Field Interview.
+b. Climate Assessment Survey.
+c. Graduate Assessment Survey, (GAS).
+d. Air Force Chief of Staff Quality of Life Survey (CSAF).
+
+63. (026) If you have an urgent concern about technical school training, use the
+
+a. field interview.
+b. graduate assessment survey.
+c. field evaluation questionnaire.
+d. customer service information line.
+
+64. (027) If you want to automate your enlisted specialty training (EST) standards, your authority will
+normally be from
+
+a. your wing commander.
+b. the CFETP, Part II, Section A.
+c. the MAJCOM functional manager.
+d. the unit education and training manager.
+
+65. (027) You can best evaluate the effectiveness of training received by technical school graduates
+by using the
+
+a. Command Job Qualification Standard.
+b. Air Force Job Qualification Standard.
+c. Specialty Training Standard.
+d. AF Form 797.
+
+66. (028) Where does the training waiver process start?
+
+a. Supervisor.
+b. Commander.
+c. Major Command (MAJCOM).
+d. Air Force Career Field Manager (AFCFM).
+
+67. (029) Information about career progression in an Air Force specialty 
+can be found in the Career
+Field Education and Training Plan, Part
+
+a. I.
+b. II.
+c. III.
+d. IV.
+
+68. (030) Prior to using the Career Field Education and Training Plan, you 
+must ensure it is
+
+a. the latest edition.
+b. approved by your supervisor.
+c. required for your duty position.
+d. listed on your unit manning document.
+
+69. (030) Which personnel develop and/or revise formal resident (3 -level), nonresident (5/7 level
+CDC), field and exportable training based on requirements established by the MAJCOMs?
+
+a. AFMC.
+b. AETC.
+c. PACAF.
+d. USAFE.
+
+70. (031) A proficiency code of "2b" in column 4 of the specialty training 
+standard would indicate
+task
+
+a. performance and subject performance.
+b. knowledge and subject performance.
+c. knowledge and subject knowledge.'
+d. performance and task knowledge.
+
+71. (032) When developing an AF Form 797, you do not list
+
+a. all task developers.
+b. the sub-tasks required.
+c. what the task is and its title.
+d. the technical or training references.
+
+72. (032) A task developed for an AF Form 797 must be measurable, 
+observable, and
+
+a. be certified.
+b. be a part of a sub-task.
+c. have a definite beginning and end.
+d. authorized by the MAJCOM functional manager.
+
+73. (033) MAJCOM and AETC subject matter experts (SME), in 
+conjunction with OSR data, help
+develop the
+
+a. Command Job Qualification Standard.
+b. Air Force Job Qualification Standard.
+c. Specialty Training Standard.
+d. Course Training Standard.
+
+74. (033) When filling out an occupational survey, it's important you answer the questions that apply
+to tasks you
+
+a. did in the last six months.
+b. did in your last duty position.
+c. are currently doing in your job.
+d. are projected to do in the next six months.
+
+75. (033) The Air Force Occupational Measurement Squadron provides two products. They are: an
+Occupational Survey Report and a
+
+a. Training Extract.
+b. Field Interview Result.
+c. Specialty Training Standard.
+d. Graduate Assessment Survey.
+
+76. (034) If there is a disagreement on a Specialty Training Standard item during a Utilization and
+Training Workshop, how is it solved?
+
+a. All the participants have a vote for or against.
+b. Air Education and Training Command decides.
+c. Only the Air Force Career Field Manager decides.
+d. Each MAJCOM (except AETC) has one vote for or against.
+
+77. (035) The assets that are of primary concern to us as maintenance 
+managers are
+
+a. people, time, and resources.
+b. people, equipment, and time.
+c. time, equipment, and resources.
+d. people, equipment, and resources.
+
+78. (035) The Comprehensive Engine Management System (CEMS) automates the engine manager
+report (D042), and provides reporting for the CEMS central database (CDB) located at
+
+a. OC ALC.
+b. 00 ALC.
+c. SM ALC.
+d. WR ALC.
+
+79. (03 5) The primary goal of the SB S S, as it relates to the maintenance 
+managers responsibility, is to
+
+a. give managers access to SBSS programs through CAMS terminals.
+b. provide managers with accurate and current data for budget and buy programs.
+c. provide standardized management of data for all levels of management which shows the effectiveness of the supply system.
+d. give managers control of their inventories and the power to enforce supply discipline, which inimizes fraud, waste, and abuse of resources.
+
+80. (035) G081 (CAMS for Mobility) provides both a maintenance 
+management system and a
+logistics command and control system for which MAJCOM?
+
+a. Pacific Air Force (PACAF).
+b. Air Combat Command (ACC).
+c. Air Mobility Command (AMC).
+d. Air Force Special Operations Command (AFSOC).
+
+81. (03 6) Which is the primary agency for all retrieval systems used by 
+maintenance at the base
+level?
+
+a. Plans.
+b. Supply.
+c. Analysis.
+d. Programs.
+
+82. (037) What are the three general functions that CAMS performs?
+
+a. Updates the database, retrieves information from the database for local use, and reports data required by database management.
+b. Accesses the database, retrieves information from the database for local use, and reports data required by higher headquarters.
+c. Accesses the database, retrieves information from the base supply database, and reports data required by higher headquarters.
+d. Updates the database, retrieves information from the database for local use, and reports data required by higher headquarters.
+
+83. (037) Before-the-fact reporting can be broken down into two separate 
+CAMS sessions, what are
+the two sessions?
+
+a. Direct and indirect labor.
+b. Reporting and scheduling.
+c. Creating/scheduling and reporting.
+d. Off equipment and on equipment scheduling.
+
+84. (038) How are how malfunction (HMAL) codes broken down?
+
+a. Alphabetical and numbered.
+b. Flight designation.
+c. Flight designation.
+d. Unit designation.
+
+85. (039) A CAMS output product that informs personnel of all 
+maintenance events assigned to their
+work center can be retrieved using screen
+
+a. 054.
+b. 127.
+c. 380.
+d. 907.
+
+86. (039) What is the meaning of direct labor?
+
+a. Cost of support equipment.
+b. Number of assigned aircraft.
+c. Number of people to be trained.
+d. Any man-hour expended related to a maintenance event.
+
+87. (040) What does Screen 100, Maintenance Action Review Inquiry, 
+provide?
+
+a. Repeat/recur discrepancies.
+b. Listing of all command codes.
+c. Allows for the review of open maintenance actions for a specific performing work center.
+d. Allows for the review of completed maintenance actions for a specific performing work center.
+
+88. (041) What CAMS screen is used as a central menu for the processing 
+of Maintenance-Supply
+interface update actions?
+
+a. 497.
+b. 380.
+c. 127.
+d. 100.
+
+89. (041) Which screen is used to make changes to the due-in from 
+maintenance (DIFM) and
+unserviceable records?
+
+a. 480, SBSS DIFM Change Transaction.
+b. 353, SBSS MICAP Notification Transaction.
+c. 518, Review of Unresolved SBSS Rejects.
+d. 516, Transfer of Asset Accountability.
+
+90. (042) What is the advantage of CAMS GUI drop-down menus?
+
+a. Cost of support equipment.
+b. Improved usability and data integrity.
+c. Detailed accounting of people to be trained.
+d. Detailed listing of maintenance tenant organizations.
+
+91. (043) Which letter is added to the Non Mission Capable (NMC) status 
+code to indicate a dual
+condition exists with supply and maintenance?
+
+a. B.
+b. C.
+c. M.
+d. S.
+
+92. (044) Which 781 series form provides a work history of all maintenance 
+performed on an aircraft?
+
+a. A.
+b. H.
+c. J.
+d. K.
+
+93. (044) If the condition of an aircraft is unknown, which symbol would 
+you enter in the 781A
+forms?
+
+a. Red X.
+b. Red dash.
+c. Circled red X.
+d.. Red diagonal.
+
+94. (044) Scheduled maintenance and correction of malfunctions are documented on an AFTO Form
+244/245, Equipment Maintenance Record, and are the responsibility of
+
+a. AGE mechanics.
+b. flightline technicians.
+c. propulsion mechanics.
+d. avionics backshop personnel.
+
+95. (044) The AFTO Form 245 is used
+
+a. to document Quality Assurance evaluations.
+b. to document scheduled maintenance on aircraft.
+c. as a continuation sheet for Part V of the AFTO Form 244.
+d. to allow supervisors to review equipment maintenance documentation.
+
+96. (045) To find a listing of all options available for use in the JDD 
+system, check the
+
+a. index screen.
+b. menu screen.
+c. option screen.
+d. contents screen.
+
+97. (045) What is the base of the JDD system and affects all information in 
+the system?
+
+a. Background reports.
+b. On-line processing.
+c. Validation reports.
+d. Inquiries.
+
+98. (045) Which JDD CAMS screen would you use to enter additional corrective action narratives, or
+to modify existing corrective action narratives for an existing maintenance action?
+
+a. 092 - Add/Change Work center Event Narratives.
+b. 129 - On-Equipment Maintenance Correction.
+c. 130 - Off-Equipment Maintenance Correction.
+d. 929 - On-Equipment Narratives.
+
+99. (046) Responsibility for management of the aircraft configuration 
+management (ACM) subsystem
+rests with
+
+a. wing PS&D personnel.
+b. Quality Assurance personnel.
+c. Maintenance Analysis personnel.
+d. data base management personnel.
+
+100. (047) Modification management is a process of accomplishing 
+modifications to systems in order to
+
+a. increase contract efficiency, reduce cost, and correct deficiencies.
+b. improve reliability, maintainability, and/or capability, and reduce cost.
+c. correct deficiencies, improve reliability, maintainability, and/or capability.
+d. eliminate production flaws, increase contract efficiency, improve product quality.
